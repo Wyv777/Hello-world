@@ -13,6 +13,10 @@ public class Hello {
          System.out.println("Hello World!");
          System.out.println("This is Nasif Nuha from Sri Lanka");
          pattern()7;
+        
+         System.out.println("")
+         System.out.println("Hello World!");
+         System.out.println("This is from Medan!");
 
     }
 
